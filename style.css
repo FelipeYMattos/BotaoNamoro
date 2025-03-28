@@ -1,0 +1,36 @@
+body{
+    background-image: url(13-59-54-302_512.webp);
+    background-color: red;
+}
+
+.painel{
+    border-radius: 10px;
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Lucida Sans',
+     'Lucida Sans Regular', 'Lucida Grande', 
+     'Lucida Sans Unicode', Geneva, Verdana,
+      sans-serif;
+
+}
+#sim{
+    height: 40px;
+    width: 60px;
+    background-color: rgb(59, 207, 59);
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-left: -50px;
+}
+#nao{
+    position: absolute;
+    margin-left: 10px;
+    height: 40px;
+    width: 60px;
+    background-color: rgb(216, 98, 98);
+    border-radius: 10px;
+    border:2px solid white;
+}
